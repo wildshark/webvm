@@ -1,0 +1,6 @@
+{
+  "name": "iQuipe Cloud Workspace",
+  "description": "Secure Multi-Tenant Alpine WebVM Platform Powered by WebAssembly",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
